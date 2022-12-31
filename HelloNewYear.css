@@ -1,0 +1,14 @@
+#div_Box {
+    position: absolute;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+    background: #f62828;
+    opacity: 0.8;
+    -webkit-filter: blur(10px);
+    /*-moz-filter: blur(10px);*/
+    -ms-filter: blur(10px);
+    filter: blur(10px);
+    border-radius: 100px;
+}
