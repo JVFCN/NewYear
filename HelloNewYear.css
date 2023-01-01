@@ -12,7 +12,6 @@
     border-radius: 100px;
     z-index: -1;
 }
-
 #newyear_h1 {
     z-index: 3;
     font-size: 50px;
@@ -22,7 +21,6 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
 #newyear_h1_01 {
     z-index: 3;
     font-size: 50px;
@@ -32,7 +30,6 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
 #NewYear {
     top: 10px;
     font-size: 100px;
@@ -43,7 +40,6 @@
     color: #ff4291;
     z-index: 2;
 }
-
 .myButton {
     box-shadow: 0px 10px 14px -7px #276873;
     background:linear-gradient(to bottom, #6ad5fc 5%, #7f37b0 100%);
